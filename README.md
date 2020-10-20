@@ -1,4 +1,6 @@
-<center>![](./assets/images/tefact-weekly.png)</center>
+<div align="center">
+  <img src="./assets/images/tefact-weekly.png">
+</div>
 
 # 真科技周刊
 
