@@ -3,9 +3,7 @@
 </div>
 # 真科技周刊
 
-
-
-### ![nlphotohurricanelaurawetlands2church](/Users/zousongqi/Documents/WORK/Tefact/tefact-weekly/assets/images/2/nlphotohurricanelaurawetlands2church.jpg)
+### ![nlphotohurricanelaurawetlands2church](./assets/images/2/nlphotohurricanelaurawetlands2church.jpg)
 
 ### [第二期：随机粒子，何以缔造生命？](./resources/2020-10-24.md)
 
