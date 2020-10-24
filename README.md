@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/images/tefact-weekly.png">
 </div>
-# 真科技周刊
+
 
 ### ![nlphotohurricanelaurawetlands2church](./assets/images/2/nlphotohurricanelaurawetlands2church.jpg)
 
@@ -34,7 +34,7 @@
 
 ![](./assets/images/1.png)
 
-### [第一期：开源也是一场“共产主义”运动](https://mp.weixin.qq.com/s/dhs67fD4_663j4htBNYX7g)
+### [第一期：开源也是一场“共产主义”运动](./resources/2020-10-19.md)
 
 - [外来食物中的 胡 藩 洋](https://mp.weixin.qq.com/s/dhs67fD4_663j4htBNYX7g)
 - [Google 的彩色边框是如何实现的？](https://mp.weixin.qq.com/s/dhs67fD4_663j4htBNYX7g)
