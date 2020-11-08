@@ -3,7 +3,7 @@
 </div>
 
 
-![截屏2020-11-08 上午10.48.30](/Users/zousongqi/Documents/WORK/Tefact/tefact-weekly/assets/images/3/截屏2020-11-08 上午10.48.30.png)
+![截屏2020-11-08 上午10.48.30](../tefact-weekly/assets/images/3/截屏2020-11-08 上午10.48.30.png)
 
 ### 第三期：成为世界霸权的三个条件
 
