@@ -15,6 +15,9 @@
 - [我们正处在有史以来异常高风险的时代吗](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
 - [成为世界霸权的三个条件](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
 - [再读 《重构》](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
+
+#### 有意思的开源项目
+
 - [Dooring - 开源的HTML5页面可视化编辑器](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
 - [DBeaver - 开源免费的可视化数据库连接管理工具](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
 - [SZT Big Data - 深圳地铁大数据客流分析系统](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
@@ -24,28 +27,28 @@
 
 ### [第二期：随机粒子，何以缔造生命？](./resources/2020-10-24.md)
 
-- 疫情之下，印度纺织订单大量转至中国
-- 川普在华纳税额是在美纳税的127倍
-- NASA将在月球建立4G网络
+- [疫情之下，印度纺织订单大量转至中国](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
+- [川普在华纳税额是在美纳税的127倍](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
+- [NASA将在月球建立4G网络](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
 
 #### 小众产品
 
-- 有趣但没卵用的产品榜首：一只电风扇
-- CBNData行业看板
-- 满分作文生成器
-- 你出生那年，字典上有了什么新单词？
-- 这个网站能防止你买到即将过时的苹果设备
+- [有趣但没卵用的产品榜首：一只电风扇](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
+- [CBNData行业看板](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
+- [满分作文生成器](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
+- [你出生那年，字典上有了什么新单词？](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
+- [这个网站能防止你买到即将过时的苹果设备](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
 
 #### 技术专栏
 
-- 过早优化为什么是万恶之源？
-- JavaScript 20年演进经历
-- WebGL 水纹流体模拟
+- [过早优化为什么是万恶之源？](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
+- [JavaScript 20年演进经历](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
+- [WebGL 水纹流体模拟](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
 
 #### 人间
 
-- 在伊拉克的中国石油工人
-- 如何创造环境让孩子学习编程
+- [在伊拉克的中国石油工人](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
+- [如何创造环境让孩子学习编程](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
 
 ![](./assets/images/1.png)
 
