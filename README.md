@@ -5,20 +5,20 @@
 
 ![10.48.30](./assets/images/3/10.48.30.png)
 
-### 第三期：成为世界霸权的三个条件
+### [第三期：成为世界霸权的三个条件](./resources/2020-11-01.md)
 
-- 为什么电梯扶手比台阶快？
-- 对蚂蚁集团的思考
-- 套娃版 Google 旗下产品 LOGO
-- Starlink 卫星互联网开箱视频 
-- 思想实验：你能否测量出单程光速
-- 我们正处在有史以来异常高风险的时代吗
-- 成为世界霸权的三个条件
-- 再读 《重构》
-- Dooring - 开源的HTML5页面可视化编辑器
-- DBeaver - 开源免费的可视化数据库连接管理工具
-- SZT Big Data - 深圳地铁大数据客流分析系统
-- Wechat Format -  转换 Markdown 到微信特制的公众号文章格式
+- [为什么电梯扶手比台阶快？](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
+- [对蚂蚁集团的思考](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
+- [套娃版 Google 旗下产品 LOGO](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
+- [Starlink 卫星互联网开箱视频 ](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
+- [思想实验：你能否测量出单程光速](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
+- [我们正处在有史以来异常高风险的时代吗](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
+- [成为世界霸权的三个条件](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
+- [再读 《重构》](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
+- [Dooring - 开源的HTML5页面可视化编辑器](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
+- [DBeaver - 开源免费的可视化数据库连接管理工具](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
+- [SZT Big Data - 深圳地铁大数据客流分析系统](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
+- [Wechat Format -  转换 Markdown 到微信特制的公众号文章格式](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
 
 ### ![nlphotohurricanelaurawetlands2church](./assets/images/2/nlphotohurricanelaurawetlands2church.jpg)
 
