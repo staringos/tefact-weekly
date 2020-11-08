@@ -3,6 +3,23 @@
 </div>
 
 
+![截屏2020-11-08 上午10.48.30](/Users/zousongqi/Documents/WORK/Tefact/tefact-weekly/assets/images/3/截屏2020-11-08 上午10.48.30.png)
+
+### 第三期：成为世界霸权的三个条件
+
+- 为什么电梯扶手比台阶快？
+- 对蚂蚁集团的思考
+- 套娃版 Google 旗下产品 LOGO
+- Starlink 卫星互联网开箱视频 
+- 思想实验：你能否测量出单程光速
+- 我们正处在有史以来异常高风险的时代吗
+- 成为世界霸权的三个条件
+- 再读 《重构》
+- Dooring - 开源的HTML5页面可视化编辑器
+- DBeaver - 开源免费的可视化数据库连接管理工具
+- SZT Big Data - 深圳地铁大数据客流分析系统
+- Wechat Format -  转换 Markdown 到微信特制的公众号文章格式
+
 ### ![nlphotohurricanelaurawetlands2church](./assets/images/2/nlphotohurricanelaurawetlands2church.jpg)
 
 ### [第二期：随机粒子，何以缔造生命？](./resources/2020-10-24.md)
@@ -29,8 +46,6 @@
 
 - 在伊拉克的中国石油工人
 - 如何创造环境让孩子学习编程
-
-
 
 ![](./assets/images/1.png)
 
