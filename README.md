@@ -2,10 +2,9 @@
   <img src="./assets/images/tefact-weekly.png">
 </div>
 
-
-![10.48.30](./assets/images/3/10.48.30.png)
-
 ### [第三期：成为世界霸权的三个条件](./resources/2020-11-01.md)
+
+<img src="./assets/images/3/10.48.30.png" width = "300" height = "200" alt="图片名称" align=center />
 
 - [为什么电梯扶手比台阶快？](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
 - [对蚂蚁集团的思考](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
@@ -23,9 +22,9 @@
 - [SZT Big Data - 深圳地铁大数据客流分析系统](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
 - [Wechat Format -  转换 Markdown 到微信特制的公众号文章格式](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
 
-### ![nlphotohurricanelaurawetlands2church](./assets/images/2/nlphotohurricanelaurawetlands2church.jpg)
-
 ### [第二期：随机粒子，何以缔造生命？](./resources/2020-10-24.md)
+
+<img src="./assets/images/2/nlphotohurricanelaurawetlands2church.jpg" width = "300" alt="图片名称" align=center />
 
 - [疫情之下，印度纺织订单大量转至中国](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
 - [川普在华纳税额是在美纳税的127倍](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
@@ -50,10 +49,10 @@
 - [在伊拉克的中国石油工人](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
 - [如何创造环境让孩子学习编程](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
 
-![](./assets/images/1.png)
-
 ### [第一期：开源也是一场“共产主义”运动](./resources/2020-10-19.md)
 
+<img src="./assets/images/1.png" width = "300" alt="图片名称" align=center />
+ 
 - [外来食物中的 胡 藩 洋](https://mp.weixin.qq.com/s/dhs67fD4_663j4htBNYX7g)
 - [Google 的彩色边框是如何实现的？](https://mp.weixin.qq.com/s/dhs67fD4_663j4htBNYX7g)
 - [台湾军队部署图](https://mp.weixin.qq.com/s/dhs67fD4_663j4htBNYX7g)
