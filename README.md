@@ -2,6 +2,22 @@
   <img src="./assets/images/tefact-weekly.png">
 </div>
 
+### [第四期：瑞幸的局中局](./resources/2020-11-17.md)
+
+- 电商的战略性赔钱
+- 瑞幸的局中局
+- 2020 上海买房攻略
+- 疫情之下，我卖掉了创业七年的公司
+
+#### 有意思的产品
+
+- 川流 Flomo
+- Nutrio 智能切菜板
+- Shower Power
+- CSS Scan
+
+每周荐书: 《社会学的邀请》
+
 ### [第三期：成为世界霸权的三个条件](./resources/2020-11-01.md)
 
 <img src="./assets/images/3/10.48.30.png" width = "300" height = "200" alt="图片名称" align=center />
