@@ -2,7 +2,18 @@
   <img src="./assets/images/tefact-weekly.png">
 </div>
 
+### [第五期：总办里的局外人](./resources/2020-12-05.md)
+
+<img src="./assets/images/5/8.png" width = "300" height = "200" alt="图片名称" align=center />
+
+- 电商的战略性赔钱
+- 瑞幸的局中局
+- 2020 上海买房攻略
+- 疫情之下，我卖掉了创业七年的公司
+
 ### [第四期：瑞幸的局中局](./resources/2020-11-17.md)
+
+<img src="./assets/images/4/amer.png" width = "300" height = "200" alt="图片名称" align=center />
 
 - 电商的战略性赔钱
 - 瑞幸的局中局
@@ -10,6 +21,8 @@
 - 疫情之下，我卖掉了创业七年的公司
 
 #### 有意思的产品
+
+<img src="./assets/images/3/10.48.30.png" width = "300" height = "200" alt="图片名称" align=center />
 
 - 川流 Flomo
 - Nutrio 智能切菜板
