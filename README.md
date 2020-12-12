@@ -14,7 +14,7 @@
 - Figma: 使用 WEB 构建一个完美的设计应用
 - Rath
 - 百度地图在线预约无人驾驶网约车
-- 每周书单：《零售的哲学》
+- 每周荐书：《零售的哲学》
 
 ### [第四期：瑞幸的局中局](./resources/2020-11-17.md)
 
@@ -27,14 +27,11 @@
 
 #### 有意思的产品
 
-<img src="./assets/images/3/10.48.30.png" width = "300" height = "200" alt="图片名称" align=center />
-
 - 川流 Flomo
 - Nutrio 智能切菜板
 - Shower Power
 - CSS Scan
-
-每周荐书: 《社会学的邀请》
+- 每周荐书: 《社会学的邀请》
 
 ### [第三期：成为世界霸权的三个条件](./resources/2020-11-01.md)
 
