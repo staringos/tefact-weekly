@@ -2,6 +2,19 @@
   <img src="./assets/images/tefact-weekly.png">
 </div>
 
+### [第六期：好生意的本质](./resources/2021-08-03.md)
+
+<img src="./assets/images/6/wallpaper.jpg" width = "300" height = "200" alt="图片名称" align=center />
+
+- 工具软件设计哲学
+- 即便语言消失，智慧依然存在，古老知识永存
+- 无用的精英
+- 吉列百年年报读后感：好生意的本质
+- 尊曹贬刘的《三国演义》
+- Effie - 把思想变成价值
+- 红漏斗 - 淘宝渠道&达人分析平台
+- 一本书：《2000年以来的西方》
+
 ### [第五期：总办里的局外人](./resources/2020-12-05.md)
 
 <img src="./assets/images/5/8.png" width = "300" height = "200" alt="图片名称" align=center />
