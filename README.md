@@ -2,6 +2,21 @@
   <img src="./assets/images/tefact-weekly.png">
 </div>
 
+### [第七期：好生意的本质](./resources/2021-08-11.md)
+
+<img src="./assets/images/7/05.jpg" width = "300" height = "200" alt="图片名称" align=center />
+
+- 六个半的设计哲学
+- 创造新世界
+- “副业”正在成为年轻人的新刚需
+- 不用微信的人
+- JSONServer
+- 本故事纯属非虚构
+- 塔利班为什么要炸掉巴米扬大佛
+- BoardOS 在线实时白板写作系统
+- 助聊 - 大数据教你怎么撩妹
+- 一本书：《党员、党权与党争》
+
 ### [第六期：好生意的本质](./resources/2021-08-03.md)
 
 <img src="./assets/images/6/wallpaper.jpg" width = "300" height = "200" alt="图片名称" align=center />
