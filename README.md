@@ -2,7 +2,23 @@
   <img src="./assets/images/tefact-weekly.png">
 </div>
 
-### [第七期：好生意的本质](./resources/2021-08-11.md)
+### [第八期：构图的奥秘](./resources/2021-08-23.md)
+
+<img src="./assets/images/8/09.png" width = "300" height = "200" alt="图片名称" align=center />
+
+封面图：龙卷风后，肯塔基州当地的电影院
+
+- 一人公司方法论
+- 史上最严重的十大建筑事故
+- 如何在家自制氯化钠晶体
+- 那些免费的砖
+- freepik
+- 你知道吗？构图的奥秘很简单！
+- 3D展示我的房间
+- 言论
+- 一本书：西方美学史
+
+### [第七期：不用微信的人](./resources/2021-08-11.md)
 
 <img src="./assets/images/7/05.jpg" width = "300" height = "200" alt="图片名称" align=center />
 
