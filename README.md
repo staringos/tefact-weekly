@@ -16,7 +16,7 @@
 
 ### [第九期：程序员随想](https://gossamer-kicker-c5a.notion.site/fa5ecee52ffb436b9b42baac60dc8f4b)
 
-<img src="./assets/images/9/01.png" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./assets/images/9/1.png" width = "300" height = "200" alt="图片名称" align=center />
 
 Photo by [Nubelson Fernandes](https://unsplash.com/@nublson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/t/business-work?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
