@@ -2,6 +2,32 @@
   <img src="./assets/images/tefact-weekly.png">
 </div>
 
+👋 嗨，欢迎来到真科技周刊！
+
+在这里，我们关注科技与人文的结合；研究商业世界的运行逻辑；读史以知兴替；探索未来发展的可能方向。
+
+我们仰望宇宙的千百万星辰，也注意着各种粒子组成的微观世界。我们即观察现实，也进入虚拟。我们注重效率，也追求人的内心安宁。我们努力保证客观，但也拥有自己的观点。
+
+保留对这个无限世界的无限好奇是我们的创刊原则。
+
+在这科技与人文的交叉点，由衷的欢迎你，进入我们的好奇心世界。
+
+[周刊阅读入口](https://gossamer-kicker-c5a.notion.site/c023be1cbcac4f9f9e96be2ff8927608)
+
+### [第九期：程序员随想](https://gossamer-kicker-c5a.notion.site/fa5ecee52ffb436b9b42baac60dc8f4b)
+
+<img src="./assets/images/9/01.png" width = "300" height = "200" alt="图片名称" align=center />
+
+Photo by [Nubelson Fernandes](https://unsplash.com/@nublson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/t/business-work?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+- 字节跳动不需要总部大楼
+- 雷军：程序员随想
+- 国内的远程工作列表
+- 古天乐连续13年更新的博客
+- 三十年磨一鞋
+- 网店差评和新冠疫情有什么关系？
+- 言论集
+
 ### [第八期：构图的奥秘](./resources/2021-08-23.md)
 
 <img src="./assets/images/8/09.png" width = "300" height = "200" alt="图片名称" align=center />
