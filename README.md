@@ -15,6 +15,19 @@
 
 [周刊阅读入口](https://gossamer-kicker-c5a.notion.site/c023be1cbcac4f9f9e96be2ff8927608)
 
+### [第十期：我们的敌人与朋友](https://gossamer-kicker-c5a.notion.site/a91948318f094383ab5904b89db776cc)
+
+- 2021 网页设计趋势回顾
+- 软件工程原则检查表
+- 读懂《毛选》的人有多通透
+- 清华大学脑与智能实验室儿童认知研究中心
+- 一份完整的香港银行账户使用指南
+- 言论集
+
+##### 产品推荐
+
+- 
+
 ### [第九期：程序员随想](https://gossamer-kicker-c5a.notion.site/fa5ecee52ffb436b9b42baac60dc8f4b)
 
 <img src="./assets/images/9/1.png" width = "300" height = "200" alt="图片名称" align=center />
