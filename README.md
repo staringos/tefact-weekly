@@ -2,6 +2,7 @@
   <img src="./assets/images/tefact-weekly.png">
 </div>
 
+ 
 👋 嗨，欢迎来到真科技周刊！
 
 在这里，我们关注科技与人文的结合；研究商业世界的运行逻辑；读史以知兴替；探索未来发展的可能方向。
@@ -14,9 +15,31 @@
 
 [周刊阅读入口](https://gossamer-kicker-c5a.notion.site/c023be1cbcac4f9f9e96be2ff8927608)
 
+### [第十期：我们的敌人与朋友](https://gossamer-kicker-c5a.notion.site/a91948318f094383ab5904b89db776cc)
+
+<img src="./assets/images/10/1.png" width = "300" height = "200" alt="图片名称" align=center />
+
+- 2021 网页设计趋势回顾
+- 软件工程原则检查表
+- 读懂《毛选》的人有多通透
+- 清华大学脑与智能实验室儿童认知研究中心
+- 一份完整的香港银行账户使用指南
+- 重拍旧照片，看看中国在过去100年里发生了怎样的变化
+- 言论集
+
+##### 产品推荐
+
+- AltTab - 在Mac下使用Windows 的 Alt + Tab 快捷键工具
+- spider-flow - 开源爬虫平台，通过可视化的方式配置爬虫
+- Emoji - Emoji翻译机
+- SunCalc
+- TryDraw - 手绘训练应用
+
+##### 一本书：呼兰河传
+
 ### [第九期：程序员随想](https://gossamer-kicker-c5a.notion.site/fa5ecee52ffb436b9b42baac60dc8f4b)
 
-<img src="./assets/images/9/01.png" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./assets/images/9/1.png" width = "300" height = "200" alt="图片名称" align=center />
 
 Photo by [Nubelson Fernandes](https://unsplash.com/@nublson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/t/business-work?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
