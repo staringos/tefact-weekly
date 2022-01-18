@@ -17,16 +17,25 @@
 
 ### [第十期：我们的敌人与朋友](https://gossamer-kicker-c5a.notion.site/a91948318f094383ab5904b89db776cc)
 
+<img src="./assets/images/10/1.png" width = "300" height = "200" alt="图片名称" align=center />
+
 - 2021 网页设计趋势回顾
 - 软件工程原则检查表
 - 读懂《毛选》的人有多通透
 - 清华大学脑与智能实验室儿童认知研究中心
 - 一份完整的香港银行账户使用指南
+- 重拍旧照片，看看中国在过去100年里发生了怎样的变化
 - 言论集
 
 ##### 产品推荐
 
-- 
+- AltTab - 在Mac下使用Windows 的 Alt + Tab 快捷键工具
+- spider-flow - 开源爬虫平台，通过可视化的方式配置爬虫
+- Emoji - Emoji翻译机
+- SunCalc
+- TryDraw - 手绘训练应用
+
+##### 一本书：呼兰河传
 
 ### [第九期：程序员随想](https://gossamer-kicker-c5a.notion.site/fa5ecee52ffb436b9b42baac60dc8f4b)
 
