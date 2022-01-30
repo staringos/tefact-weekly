@@ -15,6 +15,25 @@
 
 [周刊阅读入口](https://gossamer-kicker-c5a.notion.site/c023be1cbcac4f9f9e96be2ff8927608)
 
+### [第十一期：云梦秦简](https://gossamer-kicker-c5a.notion.site/7c3045cb826641a1a592d53946cf01cc)
+
+<img src="./assets/images/11/1.png" width = "300" height = "200" alt="图片名称" align=center />
+
+- 云梦秦简中的家书
+- Anyway.FM 的2021年终总结
+- 从估值 1 亿美金到只剩 2 个员工，我都经历了些什么
+- 如何策划出一出好戏
+- 生物技术革命正在发生，我们距离阿凡达世界还有多远？
+- 2021年年终总结
+
+##### 有意思的产品
+
+- CvBox
+- 折叠式显示器
+- 监控马斯克私人飞机飞行轨迹的Twitter账号
+- 日本の伝統色
+- 像Figma 一样设计硬件 Flux.ai
+
 ### [第十期：我们的敌人与朋友](https://gossamer-kicker-c5a.notion.site/a91948318f094383ab5904b89db776cc)
 
 <img src="./assets/images/10/1.png" width = "300" height = "200" alt="图片名称" align=center />
