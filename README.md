@@ -17,7 +17,7 @@
 
 ### [第十二期：荒野春风](https://gossamer-kicker-c5a.notion.site/5b106401c1b84e78a37478411029059b)
 
-<img src="./assets/images/12.png" width = "200" height = "240" alt="图片名称" align=center />
+<img src="./assets/images/12.png" width = "200" height = "260" alt="图片名称" align=center />
 
 真科技周刊第12期：
 - 字节·飞书设计团队《认知偏差知识手册》
