@@ -15,6 +15,21 @@
 
 [周刊阅读入口](https://gossamer-kicker-c5a.notion.site/c023be1cbcac4f9f9e96be2ff8927608)
 
+### [第十二期：荒野春风](https://gossamer-kicker-c5a.notion.site/5b106401c1b84e78a37478411029059b)
+
+<img src="./assets/images/12/1.png" width = "300" height = "200" alt="图片名称" align=center />
+
+真科技周刊第12期：
+- 字节·飞书设计团队《认知偏差知识手册》
+- 家用3D打印不完全入坑指南
+- How to get rich
+- 百年前的吉尔吉斯斯坦女人
+- P2E游戏经济的十条建议
+- 色彩设计中的科学
+- 无代码编辑器设计
+- 拖拽生成3D产品图片
+- 智能修复图片的工具
+
 ### [第十一期：云梦秦简](https://gossamer-kicker-c5a.notion.site/7c3045cb826641a1a592d53946cf01cc)
 
 <img src="./assets/images/11/1.png" width = "300" height = "200" alt="图片名称" align=center />
