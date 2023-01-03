@@ -15,9 +15,37 @@
 
 [周刊阅读入口](https://gossamer-kicker-c5a.notion.site/c023be1cbcac4f9f9e96be2ff8927608)
 
+### [第十三期：当蝴蝶煽动翅膀](https://gossamer-kicker-c5a.notion.site/aa30e0a36ca24fbca2d59671c6fad765)
+
+<img src="./assets/images/13.jpg" width = "200" height = "260" alt="第十三期：当蝴蝶煽动翅膀" align=center />
+
+真科技周刊第13期：
+
+- 中国气候异常背后的底层地理逻辑，究竟是什么?
+- 怎么知道轮胎需要更换？
+- 设计团队成熟度模型
+- UX/UI 设计流程和原则: 实现手册
+- 精致的 PC/APP 设计网站
+- 一个可以在线编辑自己的HTML文件
+- 命令行的艺术 
+- GoodUI - 学习一线互联网公司的设计方案
+- 注意力水平测试
+- 简单简历 - 五分钟打造互联网从业者的金牌简历
+- 如何每天睡三小时
+- 开源火箭（OpenRocket）
+- Rainbow D 京东智能城市设计语言系统
+- 机械表原理
+- 开源白板工具
+- SS Search 超星书籍检索工具
+- Weatherspark 地球上任何地点的全年天气
+- Gradient Generator 渐变色生成小工具
+- 如何从本质上理解数学
+- 如何做CodeReview
+- 一本书《全沉浸式游泳》
+
 ### [第十二期：荒野春风](https://gossamer-kicker-c5a.notion.site/5b106401c1b84e78a37478411029059b)
 
-<img src="./assets/images/12.png" width = "200" height = "260" alt="图片名称" align=center />
+<img src="./assets/images/12.png" width = "200" height = "260" alt="第十二期：荒野春风" align=center />
 
 真科技周刊第12期：
 - 字节·飞书设计团队《认知偏差知识手册》
@@ -32,7 +60,7 @@
 
 ### [第十一期：云梦秦简](https://gossamer-kicker-c5a.notion.site/7c3045cb826641a1a592d53946cf01cc)
 
-<img src="./assets/images/11/1.png" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./assets/images/11/1.png" width = "300" height = "200" alt="第十一期：云梦秦简" align=center />
 
 - 云梦秦简中的家书
 - Anyway.FM 的2021年终总结
@@ -51,7 +79,7 @@
 
 ### [第十期：我们的敌人与朋友](https://gossamer-kicker-c5a.notion.site/a91948318f094383ab5904b89db776cc)
 
-<img src="./assets/images/10/1.png" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./assets/images/10/1.png" width = "300" height = "200" alt="第十期：我们的敌人与朋友" align=center />
 
 - 2021 网页设计趋势回顾
 - 软件工程原则检查表
@@ -73,7 +101,7 @@
 
 ### [第九期：程序员随想](https://gossamer-kicker-c5a.notion.site/fa5ecee52ffb436b9b42baac60dc8f4b)
 
-<img src="./assets/images/9/1.png" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./assets/images/9/1.png" width = "300" height = "200" alt="第九期：程序员随想" align=center />
 
 Photo by [Nubelson Fernandes](https://unsplash.com/@nublson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/t/business-work?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -87,7 +115,7 @@ Photo by [Nubelson Fernandes](https://unsplash.com/@nublson?utm_source=unsplash&
 
 ### [第八期：构图的奥秘](./resources/2021-08-23.md)
 
-<img src="./assets/images/8/09.png" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./assets/images/8/09.png" width = "300" height = "200" alt="第八期：构图的奥秘" align=center />
 
 封面图：龙卷风后，肯塔基州当地的电影院
 
@@ -103,7 +131,7 @@ Photo by [Nubelson Fernandes](https://unsplash.com/@nublson?utm_source=unsplash&
 
 ### [第七期：不用微信的人](./resources/2021-08-11.md)
 
-<img src="./assets/images/7/05.jpg" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./assets/images/7/05.jpg" width = "300" height = "200" alt="第七期：不用微信的人" align=center />
 
 - 六个半的设计哲学
 - 创造新世界
@@ -118,7 +146,7 @@ Photo by [Nubelson Fernandes](https://unsplash.com/@nublson?utm_source=unsplash&
 
 ### [第六期：好生意的本质](./resources/2021-08-03.md)
 
-<img src="./assets/images/6/wallpaper.jpg" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./assets/images/6/wallpaper.jpg" width = "300" height = "200" alt="第六期：好生意的本质" align=center />
 
 - 工具软件设计哲学
 - 即便语言消失，智慧依然存在，古老知识永存
@@ -131,7 +159,7 @@ Photo by [Nubelson Fernandes](https://unsplash.com/@nublson?utm_source=unsplash&
 
 ### [第五期：总办里的局外人](./resources/2020-12-05.md)
 
-<img src="./assets/images/5/8.png" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./assets/images/5/8.png" width = "300" height = "200" alt="第五期：总办里的局外人" align=center />
 
 - 万物既伟大又渺小
 - Paul Graham：如何保持独立思考
@@ -145,7 +173,7 @@ Photo by [Nubelson Fernandes](https://unsplash.com/@nublson?utm_source=unsplash&
 
 ### [第四期：瑞幸的局中局](./resources/2020-11-17.md)
 
-<img src="./assets/images/4/amer.png" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./assets/images/4/amer.png" width = "300" height = "200" alt="第四期：瑞幸的局中局" align=center />
 
 - 电商的战略性赔钱
 - 瑞幸的局中局
@@ -162,7 +190,7 @@ Photo by [Nubelson Fernandes](https://unsplash.com/@nublson?utm_source=unsplash&
 
 ### [第三期：成为世界霸权的三个条件](./resources/2020-11-01.md)
 
-<img src="./assets/images/3/10.48.30.png" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./assets/images/3/10.48.30.png" width = "300" height = "200" alt="第三期：成为世界霸权的三个条件" align=center />
 
 - [为什么电梯扶手比台阶快？](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
 - [对蚂蚁集团的思考](https://mp.weixin.qq.com/s/K2F494RqPpacPEWl8jrQ7Q)
@@ -182,7 +210,7 @@ Photo by [Nubelson Fernandes](https://unsplash.com/@nublson?utm_source=unsplash&
 
 ### [第二期：随机粒子，何以缔造生命？](./resources/2020-10-24.md)
 
-<img src="./assets/images/2/nlphotohurricanelaurawetlands2church.jpg" width = "300" alt="图片名称" align=center />
+<img src="./assets/images/2/nlphotohurricanelaurawetlands2church.jpg" width = "300" alt="第二期：随机粒子，何以缔造生命？" align=center />
 
 - [疫情之下，印度纺织订单大量转至中国](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
 - [川普在华纳税额是在美纳税的127倍](https://mp.weixin.qq.com/s/iQf5qGYq6RdkaThlyO0TLA)
@@ -209,7 +237,7 @@ Photo by [Nubelson Fernandes](https://unsplash.com/@nublson?utm_source=unsplash&
 
 ### [第一期：开源也是一场“共产主义”运动](./resources/2020-10-19.md)
 
-<img src="./assets/images/1.png" width = "300" alt="图片名称" align=center />
+<img src="./assets/images/1.png" width = "300" alt="第一期：开源也是一场“共产主义”运动" align=center />
  
 - [外来食物中的 胡 藩 洋](https://mp.weixin.qq.com/s/dhs67fD4_663j4htBNYX7g)
 - [Google 的彩色边框是如何实现的？](https://mp.weixin.qq.com/s/dhs67fD4_663j4htBNYX7g)
