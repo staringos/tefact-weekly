@@ -79,7 +79,7 @@
 
 ### [第十期：我们的敌人与朋友](https://gossamer-kicker-c5a.notion.site/a91948318f094383ab5904b89db776cc)
 
-<img src="./assets/images/10/1.png" width = "380" alt="第十期：我们的敌人与朋友" align=center />
+<img src="./assets/images/10/1.png" width = "380" height="200" alt="第十期：我们的敌人与朋友" align=center />
 
 - 2021 网页设计趋势回顾
 - 软件工程原则检查表
