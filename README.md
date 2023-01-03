@@ -17,7 +17,7 @@
 
 ### [第十三期：当蝴蝶煽动翅膀](https://gossamer-kicker-c5a.notion.site/aa30e0a36ca24fbca2d59671c6fad765)
 
-<img src="./assets/images/13.jpg" width = "200" height = "260" alt="第十三期：当蝴蝶煽动翅膀" align=center />
+<img src="./assets/images/13.jpg" width = "380" alt="第十三期：当蝴蝶煽动翅膀" align=center />
 
 真科技周刊第13期：
 
